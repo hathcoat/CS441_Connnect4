@@ -13,10 +13,10 @@ Train a tabular Q-learning agent for Connect 4 and compare it against rule-based
 - `numpy`, `matplotlib`, `torch`
 
 ## Install:
-git clone https://github.com/hathcoat/CS441_Connect4.git
-cd CS441_Connect4
-git switch master
-pip install numpy matplotlib torch
+git clone https://github.com/hathcoat/CS441_Connect4.git  
+cd CS441_Connect4  
+git switch master  
+pip install numpy matplotlib torch  
 
 ## Usage
 - Run using python main.py or python3 main.py, depending on your version
